@@ -4,7 +4,7 @@ This brief defines a small, transparent **exploration** confined to 16 to 19 Oct
 
 The scenarios below were proposed by the assistant that drafted this brief, building on the cavalry theme in your user stories. **Edit, replace or delete anything.** Every number marked *proposed* is an arbitrary starting point and an assumption, not a sourced fact. When you have read and edited everything, change the next line to `CONFIRMED: yes`. The agent will not run P-026 until you do.
 
-CONFIRMED: no
+CONFIRMED: yes
 
 ## What the model does
 Daily bookkeeping for two sides over four days (16, 17, 18, 19 October): starting strength, minus losses, plus documented arrivals. Starting strengths and total losses are **sampled from the ranges in `data/input/figures.csv`** (so source disagreement becomes uncertainty, not a single number). Daily shares of the total losses and the scenario parameters below are explicit assumptions. There is **no combat resolution and no terrain**. It explores how source uncertainty and two specific changes alter relative strength over the four days.
