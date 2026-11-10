@@ -1,0 +1,19 @@
+id,date,label,place,lat,lon,coord_source,source_ids,confidence,status
+invasion-russia,1812-06,Napoleon's invasion of Russia collapses,Russia,,,,WHE;LSE-HORSE,low,candidate
+horse-remount-policy,1812-12,Russia begins a horse-remount policy,Russia,,,,LSE-HORSE,low,candidate
+treaty-kalisch,1813-02,Russia and Prussia make the Treaty of Kalisch,Kalisch,,,,WHE,low,candidate
+new-army-quota,1813-03,Napoleon reaches a 150000-man new-army quota,France,,,,WHE,low,candidate
+battle-lutzen,1813-05-02,Battle of Lützen,Lützen,51.25671,12.14164,https://www.geonames.org/search.html?q=L%C3%BCtzen&country=DE,WHE,low,candidate
+battle-bautzen,1813-05-20,Battle of Bautzen,Bautzen,51.18035,14.43494,https://www.geonames.org/search.html?q=Bautzen&country=DE,WHE,low,candidate
+armistice,1813-06-04,Armistice begins,Europe,,,,WHE,low,candidate
+hostilities-resume,1813-08-18,Hostilities resume,Europe,,,,WHE,low,candidate
+victory-grossbeeren,1813-08-23,Allied victory at Großbeeren,Großbeeren,52.35862,13.30994,https://www.geonames.org/search.html?q=Gro%C3%9Fbeeren&country=DE,WHE,low,candidate
+victory-katzbach,1813-08-26,Allied victory at Katzbach,Katzbach,,,,WHE,low,candidate
+victory-dresden,1813-08-26,Napoleon wins at Dresden,Dresden,51.05089,13.73832,https://www.geonames.org/search.html?q=Dresden&country=DE,WHE,low,candidate
+battle-kulm,1813-08-29,French pursuit force is defeated at Kulm,Kulm,,,,WHE,low,candidate
+bavaria-changes-sides,1813-10-08,Bavaria changes sides,Bavaria,,,,WHE,low,candidate
+leipzig-concentration,1813-10-14,French concentration around Leipzig reaches a candidate 177000,Leipzig,51.33962,12.37129,https://www.geonames.org/2879139/leipzig.html,WHE;USF-BRIT-1911,low,candidate
+leipzig-first-day,1813-10-16,Coalition attacks from multiple directions,Leipzig,51.33962,12.37129,https://www.geonames.org/2879139/leipzig.html,WHE,low,candidate
+leipzig-pause,1813-10-17,Fighting pauses while both sides rest and reinforce,Leipzig,51.33962,12.37129,https://www.geonames.org/2879139/leipzig.html,WHE,low,candidate
+leipzig-third-day,1813-10-18,Coalition launches coordinated attacks,Leipzig,51.33962,12.37129,https://www.geonames.org/2879139/leipzig.html,WHE,low,candidate
+leipzig-withdrawal,1813-10-19,French withdrawal begins and the Elster bridge is destroyed,Leipzig,51.33962,12.37129,https://www.geonames.org/2879139/leipzig.html,WHE;DHM;HISTORY,low,candidate

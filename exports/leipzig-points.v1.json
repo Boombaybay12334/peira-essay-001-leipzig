@@ -1,0 +1,401 @@
+{
+  "essay": "leipzig-1813",
+  "figures": [
+    {
+      "figure": "Forces concentrated near Leipzig before the battle",
+      "high": 177000.0,
+      "id": "figure-01",
+      "low": 177000.0,
+      "note": "single-source; approximate concentration figure",
+      "side": "French troops, around 14 October",
+      "single_source": true,
+      "sources": [
+        "WHE"
+      ],
+      "status": "candidate",
+      "unit": "people"
+    },
+    {
+      "figure": "Forces approaching Leipzig",
+      "high": 325000.0,
+      "id": "figure-02",
+      "low": 325000.0,
+      "note": "single-source; approximate figure that was quickly growing",
+      "side": "Coalition troops, before all reinforcements",
+      "single_source": true,
+      "sources": [
+        "WHE"
+      ],
+      "status": "candidate",
+      "unit": "people"
+    },
+    {
+      "figure": "Total battle scale",
+      "high": 560000.0,
+      "id": "figure-03",
+      "low": 500000.0,
+      "note": "different overview ranges and counting basis",
+      "side": "all forces",
+      "single_source": false,
+      "sources": [
+        "DHM",
+        "WHE"
+      ],
+      "status": "candidate",
+      "unit": "people"
+    },
+    {
+      "figure": "Allied reinforcements arriving on 17 October",
+      "high": 145000.0,
+      "id": "figure-04",
+      "low": 145000.0,
+      "note": "single-source; approximate arrival figure",
+      "side": "Coalition troops",
+      "single_source": true,
+      "sources": [
+        "WHE"
+      ],
+      "status": "candidate",
+      "unit": "people"
+    },
+    {
+      "figure": "French reinforcements arriving on 17 October",
+      "high": 14000.0,
+      "id": "figure-05",
+      "low": 14000.0,
+      "note": "single-source; approximate arrival figure",
+      "side": "French troops",
+      "single_source": true,
+      "sources": [
+        "WHE"
+      ],
+      "status": "candidate",
+      "unit": "people"
+    },
+    {
+      "figure": "French cavalry charge on 16 October",
+      "high": 10000.0,
+      "id": "figure-06",
+      "low": 10000.0,
+      "note": "single-source; Murat's charge",
+      "side": "French, Italian, and Saxon horsemen",
+      "single_source": true,
+      "sources": [
+        "WHE"
+      ],
+      "status": "candidate",
+      "unit": "people"
+    },
+    {
+      "figure": "French artillery in the main 16 October counterattack",
+      "high": 150.0,
+      "id": "figure-07",
+      "low": 150.0,
+      "note": "single-source; candidate operational detail",
+      "side": "French guns",
+      "single_source": true,
+      "sources": [
+        "WHE"
+      ],
+      "status": "candidate",
+      "unit": "guns"
+    },
+    {
+      "figure": "French casualties during the battle",
+      "high": 38000.0,
+      "id": "figure-08",
+      "low": 38000.0,
+      "note": "both fetched sources give about 38,000",
+      "side": "French battle casualties",
+      "single_source": false,
+      "sources": [
+        "WHE",
+        "HISTORY"
+      ],
+      "status": "candidate",
+      "unit": "people"
+    },
+    {
+      "figure": "Coalition casualties",
+      "high": 55000.0,
+      "id": "figure-09",
+      "low": 54000.0,
+      "note": "different rounded estimates",
+      "side": "Allied killed and wounded",
+      "single_source": false,
+      "sources": [
+        "WHE",
+        "HISTORY"
+      ],
+      "status": "candidate",
+      "unit": "people"
+    },
+    {
+      "figure": "French prisoners after the bridge disaster",
+      "high": 30000.0,
+      "id": "figure-10",
+      "low": 30000.0,
+      "note": "both fetched sources give about 30,000",
+      "side": "French captured",
+      "single_source": false,
+      "sources": [
+        "WHE",
+        "HISTORY"
+      ],
+      "status": "candidate",
+      "unit": "people"
+    },
+    {
+      "figure": "Saxon defection on 18 October",
+      "high": 5400.0,
+      "id": "figure-11",
+      "low": 5400.0,
+      "note": "single-source; candidate morale figure",
+      "side": "Saxon troops",
+      "single_source": true,
+      "sources": [
+        "WHE"
+      ],
+      "status": "candidate",
+      "unit": "people"
+    },
+    {
+      "figure": "Artillery at Schönefeld",
+      "high": 137.0,
+      "id": "figure-12",
+      "low": 137.0,
+      "note": "single-source; candidate battlefield detail",
+      "side": "Marmont's French guns",
+      "single_source": true,
+      "sources": [
+        "WHE"
+      ],
+      "status": "candidate",
+      "unit": "guns"
+    },
+    {
+      "figure": "Artillery at Schönefeld",
+      "high": 180.0,
+      "id": "figure-13",
+      "low": 180.0,
+      "note": "single-source; candidate battlefield detail",
+      "side": "Allied guns",
+      "single_source": true,
+      "sources": [
+        "WHE"
+      ],
+      "status": "candidate",
+      "unit": "guns"
+    },
+    {
+      "figure": "Battle-wide dead and wounded",
+      "high": 100000.0,
+      "id": "figure-14",
+      "low": 90000.0,
+      "note": "different counting conventions",
+      "side": "all sides",
+      "single_source": false,
+      "sources": [
+        "DHM",
+        "WHE"
+      ],
+      "status": "candidate",
+      "unit": "people"
+    }
+  ],
+  "inputs": {
+    "figures.csv": "096fb320c42d672b898d40aa1c858e954fb777285f9f021688d531bc086a7d21",
+    "research.md": "64335cea8c25db23fea139570952e5c7d0beaf3a2d73fc61fa444f01382d88ea",
+    "timeline.csv": "4b062be142de7c6113ef57a6e84289c886701a48988dd9abfd4f730419f81885"
+  },
+  "kind": "points",
+  "omitted": [
+    {
+      "id": "armistice",
+      "reason": "No source-backed coordinates were recorded for this event."
+    },
+    {
+      "id": "battle-kulm",
+      "reason": "No source-backed coordinates were recorded for this event."
+    },
+    {
+      "id": "bavaria-changes-sides",
+      "reason": "No source-backed coordinates were recorded for this event."
+    },
+    {
+      "id": "horse-remount-policy",
+      "reason": "No source-backed coordinates were recorded for this event."
+    },
+    {
+      "id": "hostilities-resume",
+      "reason": "No source-backed coordinates were recorded for this event."
+    },
+    {
+      "id": "invasion-russia",
+      "reason": "No source-backed coordinates were recorded for this event."
+    },
+    {
+      "id": "new-army-quota",
+      "reason": "No source-backed coordinates were recorded for this event."
+    },
+    {
+      "id": "treaty-kalisch",
+      "reason": "No source-backed coordinates were recorded for this event."
+    },
+    {
+      "id": "victory-katzbach",
+      "reason": "No source-backed coordinates were recorded for this event."
+    }
+  ],
+  "points": [
+    {
+      "confidence": "low",
+      "id": "battle-lutzen",
+      "label": "Battle of Lützen",
+      "lat": 51.25671,
+      "lon": 12.14164,
+      "place": "Lützen",
+      "side": null,
+      "source": [
+        "WHE"
+      ],
+      "status": "candidate",
+      "strength": null,
+      "time": "1813-05-02",
+      "unit": null
+    },
+    {
+      "confidence": "low",
+      "id": "battle-bautzen",
+      "label": "Battle of Bautzen",
+      "lat": 51.18035,
+      "lon": 14.43494,
+      "place": "Bautzen",
+      "side": null,
+      "source": [
+        "WHE"
+      ],
+      "status": "candidate",
+      "strength": null,
+      "time": "1813-05-20",
+      "unit": null
+    },
+    {
+      "confidence": "low",
+      "id": "victory-grossbeeren",
+      "label": "Allied victory at Großbeeren",
+      "lat": 52.35862,
+      "lon": 13.30994,
+      "place": "Großbeeren",
+      "side": null,
+      "source": [
+        "WHE"
+      ],
+      "status": "candidate",
+      "strength": null,
+      "time": "1813-08-23",
+      "unit": null
+    },
+    {
+      "confidence": "low",
+      "id": "victory-dresden",
+      "label": "Napoleon wins at Dresden",
+      "lat": 51.05089,
+      "lon": 13.73832,
+      "place": "Dresden",
+      "side": null,
+      "source": [
+        "WHE"
+      ],
+      "status": "candidate",
+      "strength": null,
+      "time": "1813-08-26",
+      "unit": null
+    },
+    {
+      "confidence": "low",
+      "id": "leipzig-concentration",
+      "label": "French concentration around Leipzig reaches a candidate 177000",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "place": "Leipzig",
+      "side": null,
+      "source": [
+        "WHE",
+        "USF-BRIT-1911"
+      ],
+      "status": "candidate",
+      "strength": null,
+      "time": "1813-10-14",
+      "unit": null
+    },
+    {
+      "confidence": "low",
+      "id": "leipzig-first-day",
+      "label": "Coalition attacks from multiple directions",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "place": "Leipzig",
+      "side": null,
+      "source": [
+        "WHE"
+      ],
+      "status": "candidate",
+      "strength": null,
+      "time": "1813-10-16",
+      "unit": null
+    },
+    {
+      "confidence": "low",
+      "id": "leipzig-pause",
+      "label": "Fighting pauses while both sides rest and reinforce",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "place": "Leipzig",
+      "side": null,
+      "source": [
+        "WHE"
+      ],
+      "status": "candidate",
+      "strength": null,
+      "time": "1813-10-17",
+      "unit": null
+    },
+    {
+      "confidence": "low",
+      "id": "leipzig-third-day",
+      "label": "Coalition launches coordinated attacks",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "place": "Leipzig",
+      "side": null,
+      "source": [
+        "WHE"
+      ],
+      "status": "candidate",
+      "strength": null,
+      "time": "1813-10-18",
+      "unit": null
+    },
+    {
+      "confidence": "low",
+      "id": "leipzig-withdrawal",
+      "label": "French withdrawal begins and the Elster bridge is destroyed",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "place": "Leipzig",
+      "side": null,
+      "source": [
+        "WHE",
+        "DHM",
+        "HISTORY"
+      ],
+      "status": "candidate",
+      "strength": null,
+      "time": "1813-10-19",
+      "unit": null
+    }
+  ],
+  "schemaVersion": 1,
+  "seed": 1601
+}
