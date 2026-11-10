@@ -1,0 +1,25 @@
+[build-system]
+requires = ["uv_build>=0.8.0,<0.9.0"]
+build-backend = "uv_build"
+
+[project]
+name = "peira-essay-001-leipzig"
+version = "0.1.0"
+description = "Reproducible research export for PEIRA Essay 001."
+readme = "README.md"
+requires-python = ">=3.12"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.scripts]
+export = "leipzig.export:main"
+
+[dependency-groups]
+dev = ["pytest>=8.0,<9"]
+
+[tool.uv]
+package = true
+
+[tool.uv.build-backend]
+module-name = "leipzig"
+
