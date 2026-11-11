@@ -16,9 +16,16 @@ remain `candidate` unless the owner explicitly verifies them.
 uv sync --frozen
 uv run pytest
 uv run export
+uv run export-scenarios
 ```
 
 The output format is documented in [docs/data-format.md](docs/data-format.md).
+The scenario export is a small exploration under stated assumptions. It covers
+the confirmed baseline, a French cavalry multiplier, and a delayed Army of the
+North. It uses 1,000 fixed-seed draws from candidate figure ranges, reports
+p10/p50/p90 ranges, and does not simulate combat, terrain, morale, leadership,
+or within-day timing. Results are not predictions; all rows remain candidates
+until the owner verifies the underlying figures.
 
 ## Sources and provenance
 

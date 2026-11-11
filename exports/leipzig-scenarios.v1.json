@@ -1,0 +1,838 @@
+{
+  "essay": "leipzig-1813",
+  "inputs": {
+    "figures.csv": "df8a4291e0f81706c04def16cd68399bd234142313345d816c9e49d70745ab74",
+    "research.md": "3d8e0763227128719a24f9db3b296c47617006e8dbf277851a18a55eb27e1bf9",
+    "scenario-brief.md": "feba9d238c77ae02dbe6e2cbd58cad0271a1dd7fe7b2ca3c85af16bcaffdf56c",
+    "timeline.csv": "4b062be142de7c6113ef57a6e84289c886701a48988dd9abfd4f730419f81885"
+  },
+  "kind": "points",
+  "points": [
+    {
+      "cavalry": {
+        "high": 67727.136,
+        "low": 67438.965,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-first-day-S0-coalition",
+      "label": "Coalition attacks from multiple directions",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 305926.5,
+      "place": "Leipzig",
+      "scenario": "S0",
+      "side": "Coalition",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 306069.136,
+        "low": 305780.965,
+        "unit": "men"
+      },
+      "time": "1813-10-16"
+    },
+    {
+      "cavalry": {
+        "high": 22238.401,
+        "low": 15892.283,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-first-day-S0-french",
+      "label": "Coalition attacks from multiple directions",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 163700.0,
+      "place": "Leipzig",
+      "scenario": "S0",
+      "side": "French",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 163700.0,
+        "low": 163700.0,
+        "unit": "men"
+      },
+      "time": "1813-10-16"
+    },
+    {
+      "cavalry": {
+        "high": 67724.287,
+        "low": 67446.062,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-first-day-S1-coalition",
+      "label": "Coalition attacks from multiple directions",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 305926.18,
+      "place": "Leipzig",
+      "scenario": "S1",
+      "side": "Coalition",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 306066.287,
+        "low": 305788.062,
+        "unit": "men"
+      },
+      "time": "1813-10-16"
+    },
+    {
+      "cavalry": {
+        "high": 30158.828,
+        "low": 22307.817,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-first-day-S1-french",
+      "label": "Coalition attacks from multiple directions",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 163700.0,
+      "place": "Leipzig",
+      "scenario": "S1",
+      "side": "French",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 163700.0,
+        "low": 163700.0,
+        "unit": "men"
+      },
+      "time": "1813-10-16"
+    },
+    {
+      "cavalry": {
+        "high": 67721.922,
+        "low": 67439.739,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-first-day-S2-coalition",
+      "label": "Coalition attacks from multiple directions",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 305921.42,
+      "place": "Leipzig",
+      "scenario": "S2",
+      "side": "Coalition",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 306063.922,
+        "low": 305781.739,
+        "unit": "men"
+      },
+      "time": "1813-10-16"
+    },
+    {
+      "cavalry": {
+        "high": 22237.407,
+        "low": 15770.666,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-first-day-S2-french",
+      "label": "Coalition attacks from multiple directions",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 163700.0,
+      "place": "Leipzig",
+      "scenario": "S2",
+      "side": "French",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 163700.0,
+        "low": 163700.0,
+        "unit": "men"
+      },
+      "time": "1813-10-16"
+    },
+    {
+      "cavalry": {
+        "high": 210022.727,
+        "low": 209693.389,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-pause-S0-coalition",
+      "label": "Fighting pauses while both sides rest and reinforce",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 448201.714,
+      "place": "Leipzig",
+      "scenario": "S0",
+      "side": "Coalition",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 448364.727,
+        "low": 448035.389,
+        "unit": "men"
+      },
+      "time": "1813-10-17"
+    },
+    {
+      "cavalry": {
+        "high": 34338.401,
+        "low": 27992.283,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-pause-S0-french",
+      "label": "Fighting pauses while both sides rest and reinforce",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 175800.0,
+      "place": "Leipzig",
+      "scenario": "S0",
+      "side": "French",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 175800.0,
+        "low": 175800.0,
+        "unit": "men"
+      },
+      "time": "1813-10-17"
+    },
+    {
+      "cavalry": {
+        "high": 210019.471,
+        "low": 209701.499,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-pause-S1-coalition",
+      "label": "Fighting pauses while both sides rest and reinforce",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 448201.348,
+      "place": "Leipzig",
+      "scenario": "S1",
+      "side": "Coalition",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 448361.471,
+        "low": 448043.499,
+        "unit": "men"
+      },
+      "time": "1813-10-17"
+    },
+    {
+      "cavalry": {
+        "high": 42258.828,
+        "low": 34407.817,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-pause-S1-french",
+      "label": "Fighting pauses while both sides rest and reinforce",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 175800.0,
+      "place": "Leipzig",
+      "scenario": "S1",
+      "side": "French",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 175800.0,
+        "low": 175800.0,
+        "unit": "men"
+      },
+      "time": "1813-10-17"
+    },
+    {
+      "cavalry": {
+        "high": 153561.8,
+        "low": 141327.495,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-pause-S2-coalition",
+      "label": "Fighting pauses while both sides rest and reinforce",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 385684.186,
+      "place": "Leipzig",
+      "scenario": "S2",
+      "side": "Coalition",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 391903.8,
+        "low": 379669.495,
+        "unit": "men"
+      },
+      "time": "1813-10-17"
+    },
+    {
+      "cavalry": {
+        "high": 34337.407,
+        "low": 27870.666,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-pause-S2-french",
+      "label": "Fighting pauses while both sides rest and reinforce",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 175800.0,
+      "place": "Leipzig",
+      "scenario": "S2",
+      "side": "French",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 175800.0,
+        "low": 175800.0,
+        "unit": "men"
+      },
+      "time": "1813-10-17"
+    },
+    {
+      "cavalry": {
+        "high": 185683.045,
+        "low": 184983.202,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-third-day-S0-coalition",
+      "label": "Coalition launches coordinated attacks",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 423678.642,
+      "place": "Leipzig",
+      "scenario": "S0",
+      "side": "Coalition",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 424025.045,
+        "low": 423325.202,
+        "unit": "men"
+      },
+      "time": "1813-10-18"
+    },
+    {
+      "cavalry": {
+        "high": 17238.401,
+        "low": 10892.283,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-third-day-S0-french",
+      "label": "Coalition launches coordinated attacks",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 158700.0,
+      "place": "Leipzig",
+      "scenario": "S0",
+      "side": "French",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 158700.0,
+        "low": 158700.0,
+        "unit": "men"
+      },
+      "time": "1813-10-18"
+    },
+    {
+      "cavalry": {
+        "high": 185676.127,
+        "low": 185000.436,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-third-day-S1-coalition",
+      "label": "Coalition launches coordinated attacks",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 423677.865,
+      "place": "Leipzig",
+      "scenario": "S1",
+      "side": "Coalition",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 424018.127,
+        "low": 423342.436,
+        "unit": "men"
+      },
+      "time": "1813-10-18"
+    },
+    {
+      "cavalry": {
+        "high": 25158.828,
+        "low": 17307.817,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-third-day-S1-french",
+      "label": "Coalition launches coordinated attacks",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 158700.0,
+      "place": "Leipzig",
+      "scenario": "S1",
+      "side": "French",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 158700.0,
+        "low": 158700.0,
+        "unit": "men"
+      },
+      "time": "1813-10-18"
+    },
+    {
+      "cavalry": {
+        "high": 128954.337,
+        "low": 116774.921,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-third-day-S2-coalition",
+      "label": "Coalition launches coordinated attacks",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 361214.394,
+      "place": "Leipzig",
+      "scenario": "S2",
+      "side": "Coalition",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 367296.337,
+        "low": 355116.921,
+        "unit": "men"
+      },
+      "time": "1813-10-18"
+    },
+    {
+      "cavalry": {
+        "high": 17237.407,
+        "low": 10770.666,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-third-day-S2-french",
+      "label": "Coalition launches coordinated attacks",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 158700.0,
+      "place": "Leipzig",
+      "scenario": "S2",
+      "side": "French",
+      "source": [
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 158700.0,
+        "low": 158700.0,
+        "unit": "men"
+      },
+      "time": "1813-10-18"
+    },
+    {
+      "cavalry": {
+        "high": 177569.818,
+        "low": 176746.472,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-withdrawal-S0-coalition",
+      "label": "French withdrawal begins and the Elster bridge is destroyed",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 415504.285,
+      "place": "Leipzig",
+      "scenario": "S0",
+      "side": "Coalition",
+      "source": [
+        "DHM",
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 415911.818,
+        "low": 415088.472,
+        "unit": "men"
+      },
+      "time": "1813-10-19"
+    },
+    {
+      "cavalry": {
+        "high": 11538.401,
+        "low": 5192.283,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-withdrawal-S0-french",
+      "label": "French withdrawal begins and the Elster bridge is destroyed",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 153000.0,
+      "place": "Leipzig",
+      "scenario": "S0",
+      "side": "French",
+      "source": [
+        "DHM",
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 153000.0,
+        "low": 153000.0,
+        "unit": "men"
+      },
+      "time": "1813-10-19"
+    },
+    {
+      "cavalry": {
+        "high": 177561.678,
+        "low": 176766.748,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-withdrawal-S1-coalition",
+      "label": "French withdrawal begins and the Elster bridge is destroyed",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 415503.371,
+      "place": "Leipzig",
+      "scenario": "S1",
+      "side": "Coalition",
+      "source": [
+        "DHM",
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 415903.678,
+        "low": 415108.748,
+        "unit": "men"
+      },
+      "time": "1813-10-19"
+    },
+    {
+      "cavalry": {
+        "high": 19458.828,
+        "low": 11607.817,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-withdrawal-S1-french",
+      "label": "French withdrawal begins and the Elster bridge is destroyed",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 153000.0,
+      "place": "Leipzig",
+      "scenario": "S1",
+      "side": "French",
+      "source": [
+        "DHM",
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 153000.0,
+        "low": 153000.0,
+        "unit": "men"
+      },
+      "time": "1813-10-19"
+    },
+    {
+      "cavalry": {
+        "high": 177554.919,
+        "low": 176748.682,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-withdrawal-S2-coalition",
+      "label": "French withdrawal begins and the Elster bridge is destroyed",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 415489.772,
+      "place": "Leipzig",
+      "scenario": "S2",
+      "side": "Coalition",
+      "source": [
+        "DHM",
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 415896.919,
+        "low": 415090.682,
+        "unit": "men"
+      },
+      "time": "1813-10-19"
+    },
+    {
+      "cavalry": {
+        "high": 11537.407,
+        "low": 5070.666,
+        "unit": "men"
+      },
+      "confidence": "low",
+      "id": "leipzig-withdrawal-S2-french",
+      "label": "French withdrawal begins and the Elster bridge is destroyed",
+      "lat": 51.33962,
+      "lon": 12.37129,
+      "median": 153000.0,
+      "place": "Leipzig",
+      "scenario": "S2",
+      "side": "French",
+      "source": [
+        "DHM",
+        "HISTORY",
+        "HISTORYOFWAR-17OCT",
+        "NAP-SERIES-NORTH",
+        "WHE",
+        "WIKI-FR-COAL",
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "strength": {
+        "high": 153000.0,
+        "low": 153000.0,
+        "unit": "men"
+      },
+      "time": "1813-10-19"
+    }
+  ],
+  "scenarios": [
+    {
+      "assumptions": [
+        "Author assumption: daily shares of total losses are 0.35 on 16 October, 0.05 on 17 October, 0.45 on 18 October, and 0.15 on 19 October.",
+        "Author assumption: the fixed seed is 1601 and each scenario uses 1,000 draws.",
+        "Author assumption: french_cavalry_multiplier=1.0.",
+        "Author assumption: northern_army_delay_days=0."
+      ],
+      "exploration": true,
+      "id": "S0",
+      "kind": "historical",
+      "label": "historical (baseline)",
+      "limitations": [
+        "This is an exploration, not a simulation of fighting; it has no terrain, morale, leadership, or timing within a day.",
+        "Ranges come from disagreeing candidate sources, and the candidate rows are unverified.",
+        "Daily loss shares and scenario parameters are the author's assumptions.",
+        "Results show relative strength under assumptions, not what would have happened."
+      ],
+      "parameters": {
+        "draws": 1000,
+        "french_cavalry_multiplier": 1.0,
+        "northern_army_delay_days": 0
+      },
+      "summary": "Baseline bookkeeping using the documented arrival timing."
+    },
+    {
+      "assumptions": [
+        "Author assumption: daily shares of total losses are 0.35 on 16 October, 0.05 on 17 October, 0.45 on 18 October, and 0.15 on 19 October.",
+        "Author assumption: the fixed seed is 1601 and each scenario uses 1,000 draws.",
+        "Author assumption: french_cavalry_multiplier=1.225.",
+        "Author assumption: northern_army_delay_days=0."
+      ],
+      "exploration": true,
+      "id": "S1",
+      "kind": "alternative",
+      "label": "cavalry parity",
+      "limitations": [
+        "This is an exploration, not a simulation of fighting; it has no terrain, morale, leadership, or timing within a day.",
+        "Ranges come from disagreeing candidate sources, and the candidate rows are unverified.",
+        "Daily loss shares and scenario parameters are the author's assumptions.",
+        "Results show relative strength under assumptions, not what would have happened."
+      ],
+      "parameters": {
+        "draws": 1000,
+        "french_cavalry_multiplier": 1.225,
+        "northern_army_delay_days": 0
+      },
+      "summary": "Bookkeeping with a smaller French cavalry shortfall."
+    },
+    {
+      "assumptions": [
+        "Author assumption: daily shares of total losses are 0.35 on 16 October, 0.05 on 17 October, 0.45 on 18 October, and 0.15 on 19 October.",
+        "Author assumption: the fixed seed is 1601 and each scenario uses 1,000 draws.",
+        "Author assumption: french_cavalry_multiplier=1.0.",
+        "Author assumption: northern_army_delay_days=2."
+      ],
+      "exploration": true,
+      "id": "S2",
+      "kind": "alternative",
+      "label": "delayed northern army",
+      "limitations": [
+        "This is an exploration, not a simulation of fighting; it has no terrain, morale, leadership, or timing within a day.",
+        "Ranges come from disagreeing candidate sources, and the candidate rows are unverified.",
+        "Daily loss shares and scenario parameters are the author's assumptions.",
+        "Results show relative strength under assumptions, not what would have happened."
+      ],
+      "parameters": {
+        "draws": 1000,
+        "french_cavalry_multiplier": 1.0,
+        "northern_army_delay_days": 2
+      },
+      "summary": "Bookkeeping with a later arrival for the Army of the North."
+    }
+  ],
+  "schemaVersion": 1,
+  "seed": 1601
+}

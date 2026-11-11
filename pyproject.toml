@@ -13,6 +13,7 @@ dependencies = []
 
 [project.scripts]
 export = "leipzig.export:main"
+export-scenarios = "leipzig.export:scenarios_main"
 
 [dependency-groups]
 dev = ["pytest>=8.0,<9"]

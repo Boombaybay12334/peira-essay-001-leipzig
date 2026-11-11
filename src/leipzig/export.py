@@ -8,10 +8,12 @@ import json
 import random
 from pathlib import Path
 
-SEED = 1601
+from leipzig.scenarios import SEED, build_scenario_points
+
 ROOT = Path(__file__).resolve().parents[2]
 INPUT_DIR = ROOT / "data" / "input"
 EXPORT_PATH = ROOT / "exports" / "leipzig-points.v1.json"
+SCENARIO_EXPORT_PATH = ROOT / "exports" / "leipzig-scenarios.v1.json"
 
 
 def _read_csv(path: Path) -> list[dict[str, str]]:
@@ -127,8 +129,38 @@ def write_export(path: Path = EXPORT_PATH) -> None:
     path.write_text(payload + "\n", encoding="utf-8")
 
 
+def build_scenarios_export() -> dict:
+    timeline = _read_csv(INPUT_DIR / "timeline.csv")
+    figures = _read_csv(INPUT_DIR / "figures.csv")
+    scenario_meta, points = build_scenario_points(timeline, figures)
+    return {
+        "schemaVersion": 1,
+        "essay": "leipzig-1813",
+        "kind": "points",
+        "seed": SEED,
+        "inputs": {
+            "research.md": _digest(INPUT_DIR / "research.md"),
+            "figures.csv": _digest(INPUT_DIR / "figures.csv"),
+            "timeline.csv": _digest(INPUT_DIR / "timeline.csv"),
+            "scenario-brief.md": _digest(ROOT / "docs" / "scenario-brief.md"),
+        },
+        "scenarios": scenario_meta,
+        "points": points,
+    }
+
+
+def write_scenarios_export(path: Path = SCENARIO_EXPORT_PATH) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    payload = json.dumps(build_scenarios_export(), sort_keys=True, indent=2, ensure_ascii=False)
+    path.write_text(payload + "\n", encoding="utf-8")
+
+
 def main() -> None:
     write_export()
+
+
+def scenarios_main() -> None:
+    write_scenarios_export()
 
 
 if __name__ == "__main__":
