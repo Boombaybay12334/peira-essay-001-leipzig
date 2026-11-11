@@ -201,11 +201,53 @@
       ],
       "status": "candidate",
       "unit": "people"
+    },
+    {
+      "figure": "Army of the North at Leipzig",
+      "high": 70000.0,
+      "id": "figure-15",
+      "low": 55000.0,
+      "note": "single-source estimate for the army's strength; the 17 October arrival is described separately in HISTORYOFWAR-17OCT",
+      "side": "Coalition troops",
+      "single_source": true,
+      "sources": [
+        "NAP-SERIES-NORTH"
+      ],
+      "status": "candidate",
+      "unit": "people"
+    },
+    {
+      "figure": "French cavalry at Leipzig",
+      "high": 36361.0,
+      "id": "figure-16",
+      "low": 28294.0,
+      "note": "owner-authorized estimate range: 28,294 French cavalry; 36,361 when French-led allied contingents are included; source figure is candidate and unverified",
+      "side": "French cavalry",
+      "single_source": true,
+      "sources": [
+        "WIKI-FR-OOB"
+      ],
+      "status": "candidate",
+      "unit": "people"
+    },
+    {
+      "figure": "Coalition cavalry at Leipzig",
+      "high": 86658.0,
+      "id": "figure-17",
+      "low": 86658.0,
+      "note": "owner-authorized single-source estimate; source gives 86,658 coalition cavalry with national breakdown; candidate and unverified",
+      "side": "Coalition cavalry",
+      "single_source": true,
+      "sources": [
+        "WIKI-FR-COAL"
+      ],
+      "status": "candidate",
+      "unit": "people"
     }
   ],
   "inputs": {
-    "figures.csv": "096fb320c42d672b898d40aa1c858e954fb777285f9f021688d531bc086a7d21",
-    "research.md": "64335cea8c25db23fea139570952e5c7d0beaf3a2d73fc61fa444f01382d88ea",
+    "figures.csv": "a41b599e6d7959c522e44cf5c52cfd9a558d1a824e67fc7d62d79b591296579e",
+    "research.md": "3d8e0763227128719a24f9db3b296c47617006e8dbf277851a18a55eb27e1bf9",
     "timeline.csv": "4b062be142de7c6113ef57a6e84289c886701a48988dd9abfd4f730419f81885"
   },
   "kind": "points",
