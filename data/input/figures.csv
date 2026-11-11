@@ -13,3 +13,6 @@ schemaVersion,figure,side_category,low,high,source_ids,note,status
 1,"Artillery at Schönefeld","Marmont's French guns",137,137,"WHE","single-source; candidate battlefield detail","candidate — author must verify"
 1,"Artillery at Schönefeld","Allied guns",180,180,"WHE","single-source; candidate battlefield detail","candidate — author must verify"
 1,"Battle-wide dead and wounded","all sides",90000,100000,"DHM; WHE","different counting conventions","candidate — author must verify"
+1,"Army of the North at Leipzig","Coalition troops",55000,70000,"NAP-SERIES-NORTH","single-source estimate for the army's strength; the 17 October arrival is described separately in HISTORYOFWAR-17OCT","candidate — author must verify"
+1,"French cavalry at Leipzig","French cavalry",28294,36361,"WIKI-FR-OOB","owner-authorized estimate range: 28,294 French cavalry; 36,361 when French-led allied contingents are included; source figure is candidate and unverified","candidate — author must verify"
+1,"Coalition cavalry at Leipzig","Coalition cavalry",86658,86658,"WIKI-FR-COAL","owner-authorized single-source estimate; source gives 86,658 coalition cavalry with national breakdown; candidate and unverified","candidate — author must verify"
